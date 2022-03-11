@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Teeth Cleaning",
+    "description": "Teeth cleaning is part of oral hygiene and involves the removal of dental plaque from teeth with the intention of preventing cavities (dental caries), gingivitis, and periodontal disease. People routinely clean their own teeth by brushing and interdental cleaning, and dental hygienists can remove hardened deposits (tartar) not removed by routine cleaning. Most dental hygienists recommend having the teeth professionally cleaned every six months. More frequent cleaning and examination may be necessary during treatment of dental and other oral disorders. Routine examination of the teeth is recommended at least every year. This may include yearly, select dental X-rays. See also dental plaque identification procedure and removal.",
+    "img": "https://i.ibb.co/12xVD6c/service1.webp",
+    "todo1Title": "Brushing",
+    "todo1Details": "Careful and frequent brushing with a toothbrush helps to prevent build-up of plaque bacteria on the teeth. Electric toothbrushes were developed, and initially recommended for people with strength or dexterity problems in their hands, but they have come into widespread general use. The effectiveness of electric toothbrushes is superior.",
+    "todo2Title": "Flossing",
+    "todo2Details": "In addition to brushing, cleaning between teeth may help to prevent build-up of plaque bacteria on the teeth. This may be done with dental floss or interdental brushes. 80% of cavities occur in the grooves, or pits and fissures, of the chewing surfaces of the teeth. Special appliances or tools may be used to supplement toothbrushing and interdental cleaning.",
+    "todo3Title": "Scrubbing",
+    "todo3Details": "Teeth can be cleaned by scrubbing with a twig instead of a toothbrush. Plant sap in the twig takes the place of toothpaste. In many parts of the world teeth cleaning twigs are used. In the Muslim world the miswak or siwak is made from twigs or roots that are said to have an antiseptic effect when used for cleaning teeth."
+  },
+  {
+    "id": 2,
+    "name": "Radiographs",
+    "description": "Dental Radiographs are commonly called x-rays. Dentists use radiographs for many reasons: to find hidden dental structures, malignant or benign masses, bone loss, and cavities. A radiographic image is formed by a controlled burst of X-ray radiation which penetrates oral structures at different levels, depending on varying anatomical densities, before striking the film or sensor. A full mouth series is a complete set of intraoral X-rays taken of a patients’ teeth and adjacent hard tissue. This is often abbreviated as either FMS or FMX (or CMRS, meaning Complete Mouth Radiographic Series). The full mouth series is composed of 18 films, taken the same day.",
+    "img": "https://i.ibb.co/jh6dxGg/service2.webp",
+    "todo1Title": "Periapical view",
+    "todo1Details": "The periapical view is taken of both anterior and posterior teeth. The objective of this type of view is to capture the tip of the root on the film. This is often helpful in determining the cause of pain in a specific tooth, because it allows a dentist to visualize the tooth as well as the surrounding bone in their entirety.",
+    "todo2Title": "Bitewing view",
+    "todo2Details": "The bitewing view is taken to visualize the crowns of the posterior teeth and the height of the alveolar bone in relation to the cementoenamel junctions, which are the demarcation lines on the teeth which separate tooth crown from tooth root. Routine bitewing radiographs are commonly used to examine for interdental caries and recurrent caries.",
+    "todo3Title": "Occlusal view",
+    "todo3Details": "The occlusal view is indicated when there is a desire to reveal the skeletal or pathologic anatomy of either the floor of the mouth or the palate. The occlusal film, which is about three to four times the size of the film used to take a periapical or bitewing, is inserted into the mouth so as to entirely separate the maxillary and mandibular teeth."
+  },
+  {
+    "id": 3,
+    "name": "Teeth Whitening",
+    "description": "Dental bleaching, also known as tooth whitening, is a common procedure in general dentistry. According to the FDA, whitening restores natural tooth color and bleaching whitens beyond the natural color. There are many methods available, such as brushing, bleaching strips, bleaching pen, bleaching gel, and laser bleaching. Bleaching solutions contain peroxide, which bleaches the tooth enamel to change its color. Off-the-shelf products typically rely on a carbamide peroxide solution varying in concentration from 10% to 44%. Bleaching solutions may be applied directly to the teeth, embedded in a plastic strip that is placed on the teeth or use a gel held in place by a mouthguard.",
+    "img": "https://i.ibb.co/Hq5M5TW/service3.webp",
+    "todo1Title": "Methods",
+    "todo1Details": "The ADA recommends to have one’s teeth checked by a dentist before undergoing any whitening method. The dentist should examine the patient thoroughly: take a health and dental history (including allergies and sensitivities), observe hard and soft tissues, placement and conditions of restorations, and sometimes x-rays to determine the nature and depth of possible irregularities.",
+    "todo2Title": "Risks",
+    "todo2Details": "A recent study by Kugel et al. showed that nearly half the initial change in color provided by an intensive in-office treatment (i.e., 1 hour treatment in a dentist’s chair) may be lost in seven days. Rebound is experienced when a large proportion of the tooth whitening has come from tooth dehydration (also a significant factor in causing sensitivity).",
+    "todo3Title": "Agents",
+    "todo3Details": "Various chemical and physical agents can be used to whiten teeth. Toothpaste typically has small particles of silica, aluminum oxide, calcium carbonate, or calcium phosphate to grind off stains formed by colored molecules that have absorbed onto the teeth from food. Unlike bleaches, whitening toothpaste does not alter the intrinsic color of teeth."
+  },
+  {
+    "id": 4,
+    "name": "Orthodontics",
+    "description": "Orthodontia, also known as orthodontics and dentofacial orthopedics, was the first specialty created in the field of dentistry. An orthodontist is a specialist who has undergone special training in a dental school or college after he/she has graduated in dentistry. Orthodontics was the first recognized specialty field within dentistry. Many countries have their own systems for training and registering orthodontic specialists. A two- to four-year period of full-time post-graduate study is required for a dentist to qualify as Specialist Orthodontist.",
+    "img": "https://i.ibb.co/L9826gT/service4.webp",
+    "todo1Title": "History",
+    "todo1Details": "The history of orthodontics has been intimately linked with the history of dentistry for more than 2000 years. Dentistry, had its origins as a part of medicine. According to the AAO (American Association of Orthodontists), archaeologists have discovered mummified ancients with crude metal bands wrapped around individual teeth.",
+    "todo2Title": "Methods",
+    "todo2Details": "For comprehensive orthodontic treatment, metal wires are inserted into orthodontic brackets (braces), which can be made from stainless steel or a more aesthetic ceramic material. The wires interact with the brackets to move teeth into the desired positions.",
+    "todo3Title": "Diagnosis and treatment planning",
+    "todo3Details": "In diagnosis and treatment planning, the orthodontist must (1) recognize the various characteristics of a malocclusion or dentofacial deformity; (2) define the nature of the problem, including the etiology if possible; (3) design a treatment strategy based on the specific needs and desires of the individual; and (4) present the treatment strategy to the patient in such a way that the patient fully understands the ramifications of his/her decision."
+  },
+  {
+    "id": 5,
+    "name": "Implants",
+    "description": "A dental implant (also known as an endosseous implant or fixture) is a surgical component that interfaces with the bone of the jaw or skull to support a dental prosthesis such as a crown, bridge, denture, facial prosthesis or to act as an orthodontic anchor. The basis for modern dental implants is a biologic process called osseointegration where materials, such as titanium, form an intimate bond to bone. The long-term complications that result from restoring teeth with implants relate, directly, to the risk factors of the patient and the technology. There are the risks associated with esthetics including a high smile line, poor gingival quality and missing papillae, difficulty in matching the form of natural teeth that may have unequal points of contact or uncommon shapes, bone that is missing, atrophied or otherwise shaped in an unsuitable manner, unrealistic expectations of the patient or poor oral hygiene.",
+    "img": "https://i.ibb.co/5x9S0PM/service5.webp",
+    "todo1Title": "Medical uses",
+    "todo1Details": "The primary use of dental implants are to support dental prosthetics. Modern dental implants make use of osseointegration, the biologic process where bone fuses tightly to the surface of specific materials such as titanium and some ceramics. The integration of implant and bone can support physical loads for decades without failure.",
+    "todo2Title": "Technique",
+    "todo2Details": "Planning for dental implants focuses on the general health condition of the patient, the local health condition of the mucous membranes and the jaws and the shape, size, and position of the bones of the jaws, adjacent and opposing teeth. There are few health conditions that absolutely preclude placing implants although there are certain conditions that can increase the risk of failure.",
+    "todo3Title": "Recovery",
+    "todo3Details": "The prosthetic phase begins once the implant is well integrated (or has a reasonable assurance that it will integrate) and an abutment is in place to bring it through the mucosa. Even in the event of early loading (less than 3 months), many practitioners will place temporary teeth until osseointegration is confirmed."
+  },
+  {
+    "id": 6,
+    "name": "Cosmetic Works",
+    "description": "Cosmetic dentistry is generally used to refer to any dental work that improves the appearance (though not necessarily the function) of a person’s teeth, gums and/or bite. Many dentists refer to themselves as “cosmetic dentists” regardless of their specific education, specialty, training, and experience in this field. These tooth colored materials are bonded to the underlying tooth structure with resin adhesives. Unlike silver fillings (amalgams) they are entirely free of mercury. Many dentists offer procedures to be cosmetic and because their patients prefer natural looking teeth. Cosmetic dentistry has evolved to cover many new procedures and new dental materials are constantly introduced.",
+    "img": "https://i.ibb.co/NFr6sJK/service6.webp",
+    "todo1Title": "Fields",
+    "todo1Details": "There are only 2 dental specialties that predominantly focus on dental esthetics/cosmetics. They are: Prosthodontics and Orthodontics and such specialists are called Prosthodontists and Orthodontists respectively. Every dentist is trained for 4 years in all specialities of dentistry. Cosmetic dentistry includes endodontics and also periodontics.",
+    "todo2Title": "Options",
+    "todo2Details": "The addition of a dental material to teeth or gums – examples: bonding, porcelain veneers (laminates), crowns (caps), gum grafts; the removal of tooth structure or gums; straightening of teeth accompanied by improvement in appearance of face.",
+    "todo3Title": "Materials",
+    "todo3Details": "In the past, dental fillings and other tooth restorations were made of gold, amalgam and other metals—some of which were veneered with porcelain. Now, dental work can be made entirely of porcelain or composite materials that more closely mimic the appearance of natural tooth structure."
+  }
+]

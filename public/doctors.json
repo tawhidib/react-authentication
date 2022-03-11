@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Joseph Phillips",
+    "position": "Senior Doctor",
+    "degree": "Doctor of Dental Surgery",
+    "img": "https://i.ibb.co/gFkx97n/doctor1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Marta Green",
+    "position": "Senior Doctor",
+    "degree": "Doctor of Dental Medicine",
+    "img": "https://i.ibb.co/q5M99Rn/doctor2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Edward Grey",
+    "position": "Senior Doctor",
+    "degree": "Doctor of Dental Surgery",
+    "img": "https://i.ibb.co/r32w9vT/doctor3.jpg"
+  }
+]
